@@ -1,2 +1,2 @@
-# Gagarinov
+# CorrectBracketsSequenceChecker
 
